@@ -1,0 +1,15 @@
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.csproj.AssemblyReference.cache
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.AssemblyInfoInputs.cache
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.AssemblyInfo.cs
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\net6.0\HospitalInformationSystem.exe
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\net6.0\HospitalInformationSystem.deps.json
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\net6.0\HospitalInformationSystem.runtimeconfig.json
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\net6.0\HospitalInformationSystem.dll
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\net6.0\HospitalInformationSystem.pdb
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.dll
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\refint\HospitalInformationSystem.dll
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.pdb
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\HospitalInformationSystem.genruntimeconfig.cache
+C:\Users\Ayşegül Mercan\Desktop\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\net6.0\ref\HospitalInformationSystem.dll
